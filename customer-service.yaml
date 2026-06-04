@@ -2,7 +2,7 @@
 build:
     version: "1.0.1"
 customers:
-    message: "Welcome to MSEDCL Bank Customer REST API- DEV CHECK REFRESH"
+    message: "Welcome to MSEDCL Bank Customer REST API- DEV -TRY WITH REFRESH"
     contactDetails:
       name: "Jack"
       email: "jack@yopmail.com"
