@@ -1,8 +1,8 @@
-#Custom properties -Used in application
+H#Custom properties -Used in application
 build:
     version: "1.0.1"
 customers:
-    message: "Welcome to MSEDCL Bank Customer REST API- DEV"
+    message: "Welcome to MSEDCL Bank Customer REST API- DEV CHECK REFRESH"
     contactDetails:
       name: "Jack"
       email: "jack@yopmail.com"
