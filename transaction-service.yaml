@@ -28,7 +28,7 @@ logging:
 build:
     version: "1.0.3"
 transactions:
-    message: "Welcome to MSEDCL Bank Transactions REST API -DEV"
+    message: "Welcome to MSEDCL Bank Transactions REST API -DEV  CHECKING REFRESH"
     contactDetails:
       name: "John"
       email: "john@yopmail.com"
