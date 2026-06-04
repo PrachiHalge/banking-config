@@ -29,7 +29,7 @@ logging:
 build:
     version: "1.0.2"
 accounts:
-    message: "Welcome to MSEDCL Bank Accounts REST API -DEV"
+    message: "Welcome to MSEDCL Bank Accounts REST API -DEV CHECKING REFRESH"
     contactDetails:
       name: "Jill"
       email: "jill@yopmail.com"
