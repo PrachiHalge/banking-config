@@ -1,4 +1,4 @@
-H#Custom properties -Used in application
+#Custom properties -Used in application
 build:
     version: "1.0.1"
 customers:
