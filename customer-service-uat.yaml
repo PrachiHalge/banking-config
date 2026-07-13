@@ -13,10 +13,10 @@ spring:
     application:
       name: "customer-service"
     datasource:
-      username: root
-      password: root123
-      url: jdbc:mysql://localhost:3306/CUSTOMER_DB
-      driver-class-name: com.mysql.cj.jdbc.Driver
+      username: postgres
+      password: dbprachi
+      url: jdbc:postgresql://localhost:5432/CUSTOMER_DB
+      driver-class-name: org.postgresql.Driver
 #springdoc:
 #  api-docs:
 #    enabled: false
